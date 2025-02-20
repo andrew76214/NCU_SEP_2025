@@ -37,3 +37,7 @@
 | 14 | 03/17 W5 | ✧ Lab-5: issue tracking (Gitlab MR flow) |
 | 15 | 03/24 W6 | 期末專題準備周                          |
 | 16 | 03/31 W7 | ✧ Term Project Due                      |
+
+1. issue tracking/bug report, Lab-3;
+2. configuration management, Lab-4: version control;
+3. Project management, Lab-5: installer; User manual
